@@ -1,0 +1,23 @@
+{
+    "name": "tmpckn",
+    "version": "1.0.0",
+    "description": "",
+    "main": "tmpckn.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "type": "module",
+    "dependencies": {
+        "bcrypt": "^5.1.1",
+        "ckn.backend": "^3.1.22",
+        "ckn.core": "^3.1.36",
+        "ckn.frontend": "^3.1.53",
+        "ckn.stream": "^3.1.17",
+        "ejs": "^3.1.10",
+        "mongodb": "^6.5.0",
+        "mongoose": "^8.3.2"
+    }
+}
