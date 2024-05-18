@@ -7,4 +7,4 @@ RUN npm install
 ENV PORT=5900
 
 EXPOSE 5900
-CMD [ "node", "tmpckn.js" ]
+CMD [ "node", "backendckn.js" ]
