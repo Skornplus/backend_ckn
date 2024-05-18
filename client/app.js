@@ -1838,6 +1838,8 @@ class Default extends component/* Component */.u {
     }
     async onTemplateBuilding() {
         return /*html*/`<div>
+
+        Hello Backend
         <div>`
     }
     async onInitializing() {

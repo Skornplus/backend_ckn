@@ -7,6 +7,8 @@ class Default extends Component {
     }
     async onTemplateBuilding() {
         return /*html*/`<div>
+
+        Hello Backend
         <div>`
     }
     async onInitializing() {
